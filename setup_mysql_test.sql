@@ -1,4 +1,4 @@
--- Script that prepares a MySQL server for the project:
+-- Script that prepares a MySQL server for the project:
 -- A database hbnb_test_db
 -- A new user hbnb_test (in localhost)
 -- The password of hbnb_test should be set to hbnb_test_pwd
